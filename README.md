@@ -6,7 +6,7 @@ A lab project that adds a memory-mapped IO unit to a MIPS datapath VHDL implemen
 This MIPS datapath implementation was cumulatively developed across multiple lab projects to each this stage.
 * NOTE: Several screenshots and figures are sourced from lab instructions manual provided by lab instructors at GMU for ECE 445 in December 2020.
 
-## Fully-assembled project with Vivado 2020 provided:
+## Fully-assembled project using Vivado 2020 provided:
 * The "lab6_2020_1Version" directory is the full vivado project. Separate source files are still provided in the "VHDL_Source_Files" directory for convenience.
 
 ## Provided files by instructor(s) that may have been modified to achieve project objectives:
